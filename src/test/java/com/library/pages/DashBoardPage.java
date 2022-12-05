@@ -28,4 +28,5 @@ public class DashBoardPage extends CommonAreaPage {
         return elementOfModule.getText();
     }
 
+
 }
